@@ -1,0 +1,14 @@
+# Ignorar builds e binários
+build/
+*.o
+*.exe
+*.out
+
+# Ignorar temporários
+*.swp
+*.tmp
+.DS_Store
+
+# Ignorar dependências (se aplicável)
+deps/
+
