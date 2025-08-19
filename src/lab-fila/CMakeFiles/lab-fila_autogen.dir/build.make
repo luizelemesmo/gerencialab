@@ -68,8 +68,8 @@ include src/lab-fila/CMakeFiles/lab-fila_autogen.dir/progress.make
 
 src/lab-fila/CMakeFiles/lab-fila_autogen: src/lab-fila/lab-fila_autogen/timestamp
 
-src/lab-fila/lab-fila_autogen/timestamp: /opt/homebrew/share/qt/libexec/moc
-src/lab-fila/lab-fila_autogen/timestamp: /opt/homebrew/share/qt/libexec/uic
+src/lab-fila/lab-fila_autogen/timestamp: /Users/luizhenrique/Qt/6.9.1/macos/libexec/moc
+src/lab-fila/lab-fila_autogen/timestamp: /Users/luizhenrique/Qt/6.9.1/macos/libexec/uic
 src/lab-fila/lab-fila_autogen/timestamp: src/lab-fila/CMakeFiles/lab-fila_autogen.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luizhenrique/Desktop/gerencialab/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target lab-fila"
 	cd /Users/luizhenrique/Desktop/gerencialab/src/lab-fila && /opt/homebrew/bin/cmake -E cmake_autogen /Users/luizhenrique/Desktop/gerencialab/src/lab-fila/CMakeFiles/lab-fila_autogen.dir/AutogenInfo.json ""

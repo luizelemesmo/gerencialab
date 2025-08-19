@@ -2,7 +2,7 @@
 #include <QVBoxLayout>
 #include <QListWidget>
 #include <QPushButton>
-#include "queue_manager.cpp"
+#include "queue_manager.h"
 
 class ReceptionistWindow : public QWidget {
     QListWidget* queueList;

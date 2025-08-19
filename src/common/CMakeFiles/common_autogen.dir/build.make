@@ -68,8 +68,8 @@ include src/common/CMakeFiles/common_autogen.dir/progress.make
 
 src/common/CMakeFiles/common_autogen: src/common/common_autogen/timestamp
 
-src/common/common_autogen/timestamp: /opt/homebrew/share/qt/libexec/moc
-src/common/common_autogen/timestamp: /opt/homebrew/share/qt/libexec/uic
+src/common/common_autogen/timestamp: /Users/luizhenrique/Qt/6.9.1/macos/libexec/moc
+src/common/common_autogen/timestamp: /Users/luizhenrique/Qt/6.9.1/macos/libexec/uic
 src/common/common_autogen/timestamp: src/common/CMakeFiles/common_autogen.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luizhenrique/Desktop/gerencialab/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target common"
 	cd /Users/luizhenrique/Desktop/gerencialab/src/common && /opt/homebrew/bin/cmake -E cmake_autogen /Users/luizhenrique/Desktop/gerencialab/src/common/CMakeFiles/common_autogen.dir/AutogenInfo.json ""

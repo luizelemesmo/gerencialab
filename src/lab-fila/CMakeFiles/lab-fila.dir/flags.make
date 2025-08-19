@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_SQL_LIB -DQT_WIDGETS_LIB -Dlab_fila_EXPORTS
 
-CXX_INCLUDES = -I/Users/luizhenrique/Desktop/gerencialab/src/lab-fila/lab-fila_autogen/include -I/Users/luizhenrique/Desktop/gerencialab/src/lab-fila -I/Users/luizhenrique/Desktop/gerencialab/src/common -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtSql.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
+CXX_INCLUDES = -I/Users/luizhenrique/Desktop/gerencialab/src/lab-fila/lab-fila_autogen/include -I/Users/luizhenrique/Desktop/gerencialab/src/lab-fila -I/Users/luizhenrique/Desktop/gerencialab/src/common -isystem /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers -iframework /Users/luizhenrique/Qt/6.9.1/macos/lib -isystem /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers -isystem /Users/luizhenrique/Qt/6.9.1/macos/mkspecs/macx-clang -isystem /Users/luizhenrique/Qt/6.9.1/macos/include -isystem /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers -isystem /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Headers -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
 
 CXX_FLAGSarm64 = -std=gnu++17 -arch arm64 -fPIC
 

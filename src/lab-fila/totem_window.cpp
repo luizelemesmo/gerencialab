@@ -5,7 +5,7 @@
 #include <QCheckBox>
 #include <QPushButton>
 #include <QMessageBox>
-#include "queue_manager.cpp"  // Link à DLL via include ou QLibrary
+#include "queue_manager.h"  // Link à DLL via include ou QLibrary
 
 class TotemWindow : public QWidget {
 public:

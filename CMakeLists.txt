@@ -12,8 +12,7 @@ set(Qt6Gui_OPENGL_LIBRARIES "-framework OpenGL" CACHE STRING "OpenGL framework f
 
 # A linha acima DEVE vir ANTES do find_package
 find_package(Qt6 COMPONENTS Widgets Sql REQUIRED)
-# Você não precisa mais do find_package(OpenGL REQUIRED), pode remover ou comentar
-# find_package(OpenGL REQUIRED)
+message(STATUS "Qt6_DIR encontrado pelo CMake: ${Qt6_DIR}")
 
 add_subdirectory(src/common)
 add_subdirectory(src/lab-fila)

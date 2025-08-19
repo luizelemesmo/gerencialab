@@ -1,10 +1,10 @@
 src/lab-fila/CMakeFiles/lab-fila.dir/receptionist_window.cpp.o: \
   /Users/luizhenrique/Desktop/gerencialab/src/lab-fila/receptionist_window.cpp \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QWidget \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qwidget.h \
-  /opt/homebrew/include/QtWidgets/qtwidgetsglobal.h \
-  /opt/homebrew/include/QtGui/qtguiglobal.h \
-  /opt/homebrew/include/QtCore/qglobal.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/QWidget \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qwidget.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qtwidgetsglobal.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qtguiglobal.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qglobal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/type_traits \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site \
@@ -283,33 +283,33 @@ src/lab-fila/CMakeFiles/lab-fila.dir/receptionist_window.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_static_assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stdbool.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdbool.h \
-  /opt/homebrew/include/QtCore/qtcoreglobal.h \
-  /opt/homebrew/include/QtCore/qtversionchecks.h \
-  /opt/homebrew/include/QtCore/qtconfiginclude.h \
-  /opt/homebrew/include/QtCore/qconfig.h \
-  /opt/homebrew/include/QtCore/qtcore-config.h \
-  /opt/homebrew/include/QtCore/qtconfigmacros.h \
-  /opt/homebrew/include/QtCore/qtdeprecationdefinitions.h \
-  /opt/homebrew/include/QtCore/qcompilerdetection.h \
-  /opt/homebrew/include/QtCore/qprocessordetection.h \
-  /opt/homebrew/include/QtCore/qsystemdetection.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtcoreglobal.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtversionchecks.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtconfiginclude.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qconfig.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtcore-config.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtconfigmacros.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtdeprecationdefinitions.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcompilerdetection.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qprocessordetection.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qsystemdetection.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/TargetConditionals.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/AvailabilityMacros.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/atomic \
-  /opt/homebrew/include/QtCore/qtcoreexports.h \
-  /opt/homebrew/include/QtCore/qtdeprecationmarkers.h \
-  /opt/homebrew/include/QtCore/qtclasshelpermacros.h \
-  /opt/homebrew/include/QtCore/qtpreprocessorsupport.h \
-  /opt/homebrew/include/QtCore/qassert.h \
-  /opt/homebrew/include/QtCore/qtnoop.h \
-  /opt/homebrew/include/QtCore/qtypes.h \
-  /opt/homebrew/include/QtCore/qtversion.h \
-  /opt/homebrew/include/QtCore/qtypeinfo.h \
-  /opt/homebrew/include/QtCore/qcontainerfwd.h \
-  /opt/homebrew/include/QtCore/qsysinfo.h \
-  /opt/homebrew/include/QtCore/qlogging.h \
-  /opt/homebrew/include/QtCore/qflags.h \
-  /opt/homebrew/include/QtCore/qcompare_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtcoreexports.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtdeprecationmarkers.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtclasshelpermacros.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtpreprocessorsupport.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qassert.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtnoop.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtypes.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtversion.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtypeinfo.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcontainerfwd.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qsysinfo.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qlogging.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qflags.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcompare_impl.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/algorithm \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp.h \
@@ -681,38 +681,38 @@ src/lab-fila/CMakeFiles/lab-fila.dir/receptionist_window.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/sample.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/bit \
-  /opt/homebrew/include/QtCore/qatomic.h \
-  /opt/homebrew/include/QtCore/qbasicatomic.h \
-  /opt/homebrew/include/QtCore/qatomic_cxx11.h \
-  /opt/homebrew/include/QtCore/qgenericatomic.h \
-  /opt/homebrew/include/QtCore/qyieldcpu.h \
-  /opt/homebrew/include/QtCore/qconstructormacros.h \
-  /opt/homebrew/include/QtCore/qdarwinhelpers.h \
-  /opt/homebrew/include/QtCore/qexceptionhandling.h \
-  /opt/homebrew/include/QtCore/qforeach.h \
-  /opt/homebrew/include/QtCore/qttypetraits.h \
-  /opt/homebrew/include/QtCore/qfunctionpointer.h \
-  /opt/homebrew/include/QtCore/qglobalstatic.h \
-  /opt/homebrew/include/QtCore/qmalloc.h \
-  /opt/homebrew/include/QtCore/qminmax.h \
-  /opt/homebrew/include/QtCore/qnumeric.h \
-  /opt/homebrew/include/QtCore/qoverload.h \
-  /opt/homebrew/include/QtCore/qswap.h \
-  /opt/homebrew/include/QtCore/qtenvironmentvariables.h \
-  /opt/homebrew/include/QtCore/qtresource.h \
-  /opt/homebrew/include/QtCore/qttranslation.h \
-  /opt/homebrew/include/QtCore/qversiontagging.h \
-  /opt/homebrew/include/QtGui/qtgui-config.h \
-  /opt/homebrew/include/QtGui/qtguiexports.h \
-  /opt/homebrew/include/QtWidgets/qtwidgets-config.h \
-  /opt/homebrew/include/QtWidgets/qtwidgetsexports.h \
-  /opt/homebrew/include/QtGui/qwindowdefs.h \
-  /opt/homebrew/include/QtCore/qobjectdefs.h \
-  /opt/homebrew/include/QtCore/qnamespace.h \
-  /opt/homebrew/include/QtCore/qcompare.h \
-  /opt/homebrew/include/QtCore/qstdlibdetection.h \
-  /opt/homebrew/include/QtCore/qcomparehelpers.h \
-  /opt/homebrew/include/QtCore/q20type_traits.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qatomic.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qbasicatomic.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qatomic_cxx11.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qgenericatomic.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qyieldcpu.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qconstructormacros.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qdarwinhelpers.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qexceptionhandling.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qforeach.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qttypetraits.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qfunctionpointer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qglobalstatic.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmalloc.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qminmax.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qnumeric.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qoverload.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qswap.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtenvironmentvariables.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtresource.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qttranslation.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qversiontagging.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qtgui-config.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qtguiexports.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qtwidgets-config.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qtwidgetsexports.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qwindowdefs.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qobjectdefs.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qnamespace.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcompare.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstdlibdetection.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcomparehelpers.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/q20type_traits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/functional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binary_negate.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/bind.h \
@@ -843,38 +843,38 @@ src/lab-fila/CMakeFiles/lab-fila.dir/receptionist_window.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdarg \
-  /opt/homebrew/include/QtCore/qtmetamacros.h \
-  /opt/homebrew/include/QtCore/qobjectdefs_impl.h \
-  /opt/homebrew/include/QtCore/qfunctionaltools_impl.h \
-  /opt/homebrew/include/QtCore/qobject.h \
-  /opt/homebrew/include/QtCore/qstring.h \
-  /opt/homebrew/include/QtCore/qchar.h \
-  /opt/homebrew/include/QtCore/qstringview.h \
-  /opt/homebrew/include/QtCore/qbytearray.h \
-  /opt/homebrew/include/QtCore/qrefcount.h \
-  /opt/homebrew/include/QtCore/qarraydata.h \
-  /opt/homebrew/include/QtCore/qpair.h \
-  /opt/homebrew/include/QtCore/qarraydatapointer.h \
-  /opt/homebrew/include/QtCore/qarraydataops.h \
-  /opt/homebrew/include/QtCore/qcontainertools_impl.h \
-  /opt/homebrew/include/QtCore/qxptype_traits.h \
-  /opt/homebrew/include/QtCore/q20functional.h \
-  /opt/homebrew/include/QtCore/q20memory.h \
-  /opt/homebrew/include/QtCore/q17memory.h \
-  /opt/homebrew/include/QtCore/qbytearrayalgorithms.h \
-  /opt/homebrew/include/QtCore/qbytearrayview.h \
-  /opt/homebrew/include/QtCore/qstringfwd.h \
-  /opt/homebrew/include/QtCore/qstringliteral.h \
-  /opt/homebrew/include/QtCore/qstringalgorithms.h \
-  /opt/homebrew/include/QtCore/qlatin1stringview.h \
-  /opt/homebrew/include/QtCore/qanystringview.h \
-  /opt/homebrew/include/QtCore/qutf8stringview.h \
-  /opt/homebrew/include/QtCore/qstringtokenizer.h \
-  /opt/homebrew/include/QtCore/qstringbuilder.h \
-  /opt/homebrew/include/QtCore/qstringconverter.h \
-  /opt/homebrew/include/QtCore/qstringconverter_base.h \
-  /opt/homebrew/include/QtCore/qlist.h \
-  /opt/homebrew/include/QtCore/qhashfunctions.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtmetamacros.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qobjectdefs_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qfunctionaltools_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qobject.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstring.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qchar.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringview.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qbytearray.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qrefcount.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qarraydata.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qpair.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qarraydatapointer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qarraydataops.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcontainertools_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qxptype_traits.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/q20functional.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/q20memory.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/q17memory.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qbytearrayalgorithms.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qbytearrayview.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringfwd.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringliteral.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringalgorithms.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qlatin1stringview.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qanystringview.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qutf8stringview.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringtokenizer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringbuilder.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringconverter.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringconverter_base.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qlist.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qhashfunctions.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/numeric \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/accumulate.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/adjacent_difference.h \
@@ -890,125 +890,120 @@ src/lab-fila/CMakeFiles/lab-fila.dir/receptionist_window.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_reduce.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/execution \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_execution_policy.h \
-  /opt/homebrew/include/QtCore/qiterator.h \
-  /opt/homebrew/include/QtCore/qbytearraylist.h \
-  /opt/homebrew/include/QtCore/qstringlist.h \
-  /opt/homebrew/include/QtCore/qalgorithms.h \
-  /opt/homebrew/include/QtCore/qstringmatcher.h \
-  /opt/homebrew/include/QtCore/qscopedpointer.h \
-  /opt/homebrew/include/QtCore/qmetatype.h \
-  /opt/homebrew/include/QtCore/qdatastream.h \
-  /opt/homebrew/include/QtCore/qiodevicebase.h \
-  /opt/homebrew/include/QtCore/qfloat16.h \
-  /opt/homebrew/include/QtCore/qmath.h \
-  /opt/homebrew/include/QtCore/qtformat_impl.h \
-  /opt/homebrew/include/QtCore/qiterable.h \
-  /opt/homebrew/include/QtCore/qmetacontainer.h \
-  /opt/homebrew/include/QtCore/qcontainerinfo.h \
-  /opt/homebrew/include/QtCore/qtaggedpointer.h \
-  /opt/homebrew/include/QtCore/qscopeguard.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qiterator.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qbytearraylist.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringlist.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qalgorithms.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringmatcher.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qscopedpointer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmetatype.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qdatastream.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qiodevicebase.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qfloat16.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmath.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtformat_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qiterable.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmetacontainer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcontainerinfo.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtaggedpointer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qscopeguard.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/list \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/map \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tree \
-  /opt/homebrew/include/QtCore/qobject_impl.h \
-  /opt/homebrew/include/QtCore/qbindingstorage.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qobject_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qbindingstorage.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/chrono \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/file_clock.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/forward_list \
-  /opt/homebrew/include/QtCore/qmargins.h \
-  /opt/homebrew/include/QtCore/q23utility.h \
-  /opt/homebrew/include/QtCore/q20utility.h \
-  /opt/homebrew/include/QtGui/qaction.h \
-  /opt/homebrew/include/QtGui/qkeysequence.h \
-  /opt/homebrew/include/QtGui/qicon.h \
-  /opt/homebrew/include/QtCore/qsize.h \
-  /opt/homebrew/include/QtGui/qpixmap.h \
-  /opt/homebrew/include/QtGui/qpaintdevice.h \
-  /opt/homebrew/include/QtCore/qrect.h \
-  /opt/homebrew/include/QtCore/qpoint.h \
-  /opt/homebrew/include/QtGui/qcolor.h \
-  /opt/homebrew/include/QtGui/qrgb.h \
-  /opt/homebrew/include/QtGui/qrgba64.h \
-  /opt/homebrew/include/QtCore/qshareddata.h \
-  /opt/homebrew/include/QtGui/qimage.h \
-  /opt/homebrew/include/QtGui/qpixelformat.h \
-  /opt/homebrew/include/QtGui/qtransform.h \
-  /opt/homebrew/include/QtGui/qpolygon.h \
-  /opt/homebrew/include/QtGui/qregion.h \
-  /opt/homebrew/include/QtCore/qspan.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmargins.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/q23utility.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/q20utility.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qaction.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qkeysequence.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qicon.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qsize.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qpixmap.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qpaintdevice.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qrect.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qpoint.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qcolor.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qrgb.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qrgba64.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qshareddata.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qimage.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qpixelformat.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qtransform.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qpolygon.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qregion.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qspan.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cassert \
-  /opt/homebrew/include/QtCore/q20iterator.h \
-  /opt/homebrew/include/QtCore/qline.h \
-  /opt/homebrew/include/QtCore/qvariant.h \
-  /opt/homebrew/include/QtCore/qdebug.h \
-  /opt/homebrew/include/QtCore/qtextstream.h \
-  /opt/homebrew/include/QtCore/qcontiguouscache.h \
-  /opt/homebrew/include/QtCore/qsharedpointer.h \
-  /opt/homebrew/include/QtCore/qsharedpointer_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/q20iterator.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qline.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qvariant.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qdebug.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtextstream.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcontiguouscache.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qsharedpointer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qsharedpointer_impl.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/set \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/unordered_set \
-  /opt/homebrew/include/QtCore/qmap.h \
-  /opt/homebrew/include/QtCore/qshareddata_impl.h \
-  /opt/homebrew/include/QtCore/qset.h \
-  /opt/homebrew/include/QtCore/qhash.h \
-  /opt/homebrew/include/QtCore/qvarlengtharray.h \
-  /opt/homebrew/include/QtGui/qpalette.h \
-  /opt/homebrew/include/QtGui/qbrush.h \
-  /opt/homebrew/include/QtGui/qfont.h \
-  /opt/homebrew/include/QtCore/qendian.h \
-  /opt/homebrew/include/QtGui/qfontmetrics.h \
-  /opt/homebrew/include/QtGui/qfontinfo.h \
-  /opt/homebrew/include/QtGui/qfontvariableaxis.h \
-  /opt/homebrew/include/QtWidgets/qsizepolicy.h \
-  /opt/homebrew/include/QtGui/qcursor.h \
-  /opt/homebrew/include/QtGui/qbitmap.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QVBoxLayout \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qboxlayout.h \
-  /opt/homebrew/include/QtWidgets/qlayout.h \
-  /opt/homebrew/include/QtWidgets/qlayoutitem.h \
-  /opt/homebrew/include/QtWidgets/qboxlayout.h \
-  /opt/homebrew/include/QtWidgets/qgridlayout.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QListWidget \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qlistwidget.h \
-  /opt/homebrew/include/QtWidgets/qlistview.h \
-  /opt/homebrew/include/QtWidgets/qabstractitemview.h \
-  /opt/homebrew/include/QtWidgets/qabstractscrollarea.h \
-  /opt/homebrew/include/QtWidgets/qframe.h \
-  /opt/homebrew/include/QtWidgets/qwidget.h \
-  /opt/homebrew/include/QtCore/qabstractitemmodel.h \
-  /opt/homebrew/include/QtCore/qitemselectionmodel.h \
-  /opt/homebrew/include/QtWidgets/qabstractitemdelegate.h \
-  /opt/homebrew/include/QtWidgets/qstyleoption.h \
-  /opt/homebrew/include/QtCore/qlocale.h \
-  /opt/homebrew/include/QtWidgets/qabstractspinbox.h \
-  /opt/homebrew/include/QtGui/qvalidator.h \
-  /opt/homebrew/include/QtCore/qregularexpression.h \
-  /opt/homebrew/include/QtWidgets/qslider.h \
-  /opt/homebrew/include/QtWidgets/qabstractslider.h \
-  /opt/homebrew/include/QtWidgets/qstyle.h \
-  /opt/homebrew/include/QtWidgets/qtabbar.h \
-  /opt/homebrew/include/QtWidgets/qtabwidget.h \
-  /opt/homebrew/include/QtWidgets/qrubberband.h \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/QPushButton \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qpushbutton.h \
-  /opt/homebrew/include/QtWidgets/qabstractbutton.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmap.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qshareddata_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qset.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qhash.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qvarlengtharray.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qpalette.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qbrush.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qfont.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qendian.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qfontmetrics.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qfontinfo.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qfontvariableaxis.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qsizepolicy.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qcursor.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qbitmap.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/QVBoxLayout \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qboxlayout.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qlayout.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qlayoutitem.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qgridlayout.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/QListWidget \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qlistwidget.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qlistview.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qabstractitemview.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qabstractscrollarea.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qframe.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qabstractitemmodel.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qitemselectionmodel.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qabstractitemdelegate.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qstyleoption.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qlocale.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qabstractspinbox.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qvalidator.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qregularexpression.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qslider.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qabstractslider.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qstyle.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qtabbar.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qtabwidget.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qrubberband.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/QPushButton \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qpushbutton.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qabstractbutton.h \
   /Users/luizhenrique/Desktop/gerencialab/src/common/queue_manager.cpp \
   /Users/luizhenrique/Desktop/gerencialab/src/common/queue_manager.h \
-  /opt/homebrew/lib/QtCore.framework/Headers/QObject \
-  /opt/homebrew/lib/QtCore.framework/Headers/qobject.h \
-  /opt/homebrew/lib/QtCore.framework/Headers/QList \
-  /opt/homebrew/lib/QtCore.framework/Headers/qlist.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/QObject \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/QList \
   /Users/luizhenrique/Desktop/gerencialab/src/common/ticket.h \
-  /opt/homebrew/lib/QtCore.framework/Headers/QString \
-  /opt/homebrew/lib/QtCore.framework/Headers/qstring.h \
-  /opt/homebrew/lib/QtCore.framework/Headers/QDateTime \
-  /opt/homebrew/lib/QtCore.framework/Headers/qdatetime.h \
-  /opt/homebrew/include/QtCore/qcalendar.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/QString \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/QDateTime \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qdatetime.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcalendar.h \
   /Users/luizhenrique/Desktop/gerencialab/src/common/queue_model.h \
-  /opt/homebrew/lib/QtSql.framework/Headers/QSqlDatabase \
-  /opt/homebrew/lib/QtSql.framework/Headers/qsqldatabase.h \
-  /opt/homebrew/include/QtSql/qtsqlglobal.h \
-  /opt/homebrew/include/QtSql/qtsql-config.h \
-  /opt/homebrew/include/QtSql/qtsqlexports.h \
-  /opt/homebrew/include/QtCore/qmetaobject.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Headers/QSqlDatabase \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Headers/qsqldatabase.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Headers/qtsqlglobal.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Headers/qtsql-config.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Headers/qtsqlexports.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmetaobject.h \
   /Users/luizhenrique/Desktop/gerencialab/src/common/ticket_factory.h

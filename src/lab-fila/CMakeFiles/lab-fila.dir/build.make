@@ -69,8 +69,8 @@ include src/lab-fila/CMakeFiles/lab-fila.dir/progress.make
 # Include the compile flags for this target's objects.
 include src/lab-fila/CMakeFiles/lab-fila.dir/flags.make
 
-src/lab-fila/lab-fila_autogen/timestamp: /opt/homebrew/share/qt/libexec/moc
-src/lab-fila/lab-fila_autogen/timestamp: /opt/homebrew/share/qt/libexec/uic
+src/lab-fila/lab-fila_autogen/timestamp: /Users/luizhenrique/Qt/6.9.1/macos/libexec/moc
+src/lab-fila/lab-fila_autogen/timestamp: /Users/luizhenrique/Qt/6.9.1/macos/libexec/uic
 src/lab-fila/lab-fila_autogen/timestamp: src/lab-fila/CMakeFiles/lab-fila.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luizhenrique/Desktop/gerencialab/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target lab-fila"
 	cd /Users/luizhenrique/Desktop/gerencialab/src/lab-fila && /opt/homebrew/bin/cmake -E cmake_autogen /Users/luizhenrique/Desktop/gerencialab/src/lab-fila/CMakeFiles/lab-fila_autogen.dir/AutogenInfo.json ""
@@ -134,12 +134,12 @@ src/lab-fila/liblab-fila.dylib: src/lab-fila/CMakeFiles/lab-fila.dir/lab-fila_au
 src/lab-fila/liblab-fila.dylib: src/lab-fila/CMakeFiles/lab-fila.dir/totem_window.cpp.o
 src/lab-fila/liblab-fila.dylib: src/lab-fila/CMakeFiles/lab-fila.dir/receptionist_window.cpp.o
 src/lab-fila/liblab-fila.dylib: src/lab-fila/CMakeFiles/lab-fila.dir/build.make
-src/lab-fila/liblab-fila.dylib: /opt/homebrew/lib/QtWidgets.framework/Versions/A/QtWidgets
+src/lab-fila/liblab-fila.dylib: /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Versions/A/QtWidgets
 src/lab-fila/liblab-fila.dylib: src/common/libcommon.a
 src/lab-fila/liblab-fila.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework
-src/lab-fila/liblab-fila.dylib: /opt/homebrew/lib/QtGui.framework/Versions/A/QtGui
-src/lab-fila/liblab-fila.dylib: /opt/homebrew/lib/QtSql.framework/Versions/A/QtSql
-src/lab-fila/liblab-fila.dylib: /opt/homebrew/lib/QtCore.framework/Versions/A/QtCore
+src/lab-fila/liblab-fila.dylib: /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Versions/A/QtGui
+src/lab-fila/liblab-fila.dylib: /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Versions/A/QtSql
+src/lab-fila/liblab-fila.dylib: /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/QtCore
 src/lab-fila/liblab-fila.dylib: src/lab-fila/CMakeFiles/lab-fila.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/luizhenrique/Desktop/gerencialab/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX shared library liblab-fila.dylib"
 	cd /Users/luizhenrique/Desktop/gerencialab/src/lab-fila && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab-fila.dir/link.txt --verbose=$(VERBOSE)
