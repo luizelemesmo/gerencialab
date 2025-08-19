@@ -1,0 +1,17 @@
+<map id="src/common/queue_model.cpp" name="src/common/queue_model.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="132,5,331,31"/>
+<area shape="rect" id="Node000002" href="$queue__model_8h.html" title=" " alt="" coords="117,79,226,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,33,193,69,189,65,219,30"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="250,79,335,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="243,29,274,65,270,69,239,33"/>
+<area shape="rect" id="Node000003" href="$ticket_8h.html" title=" " alt="" coords="56,153,121,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,107,116,144,112,140,156,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="145,153,198,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="174,105,174,137,169,137,169,105"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="222,153,328,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="190,103,247,141,244,146,187,107"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,226,71,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="82,180,57,215,53,212,78,177"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="95,226,184,252"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="99,177,124,212,120,215,95,180"/>
+</map>

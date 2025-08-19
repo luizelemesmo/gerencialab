@@ -1,0 +1,40 @@
+\doxysection{queue\+\_\+manager.\+h}
+\hypertarget{queue__manager_8h_source}{}\label{queue__manager_8h_source}\index{src/common/queue\_manager.h@{src/common/queue\_manager.h}}
+\mbox{\hyperlink{queue__manager_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ \textcolor{comment}{//\ src/common/queue\_manager.h}}
+\DoxyCodeLine{00002\ }
+\DoxyCodeLine{00003\ \textcolor{preprocessor}{\#ifndef\ QUEUE\_MANAGER\_H}}
+\DoxyCodeLine{00004\ \textcolor{preprocessor}{\#define\ QUEUE\_MANAGER\_H}}
+\DoxyCodeLine{00005\ }
+\DoxyCodeLine{00006\ \textcolor{preprocessor}{\#include\ <QObject>}}
+\DoxyCodeLine{00007\ \textcolor{preprocessor}{\#include\ <QList>}}
+\DoxyCodeLine{00008\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{ticket_8h}{ticket.h}}"{}}\ }
+\DoxyCodeLine{00009\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{queue__model_8h}{queue\_model.h}}"{}}}
+\DoxyCodeLine{00010\ }
+\DoxyCodeLine{00011\ \textcolor{keyword}{class\ }QueueManager\ :\ \textcolor{keyword}{public}\ QObject\ \{}
+\DoxyCodeLine{00012\ \ \ \ \ Q\_OBJECT}
+\DoxyCodeLine{00013\ }
+\DoxyCodeLine{00014\ \textcolor{keyword}{private}:}
+\DoxyCodeLine{00015\ \ \ \ \ \textcolor{keyword}{static}\ QueueManager*\ instance;}
+\DoxyCodeLine{00016\ \ \ \ \ \mbox{\hyperlink{class_queue_model}{QueueModel}}\ model;\ }
+\DoxyCodeLine{00017\ }
+\DoxyCodeLine{00018\ \ \ \ \ QueueManager();}
+\DoxyCodeLine{00019\ }
+\DoxyCodeLine{00020\ \textcolor{keyword}{public}:}
+\DoxyCodeLine{00021\ \ \ \ \ \textcolor{keyword}{static}\ QueueManager*\ \mbox{\hyperlink{class_queue_manager_a6023e20f06460d148a5c9c217d3a0a1d}{getInstance}}();}
+\DoxyCodeLine{00022\ }
+\DoxyCodeLine{00023\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_queue_manager_a16c3fca144278663cb890c57e3260990}{issueTicket}}(\textcolor{keyword}{const}\ QString\&\ examType,\ \textcolor{keywordtype}{bool}\ isPreferential);}
+\DoxyCodeLine{00024\ \ \ \ \ \mbox{\hyperlink{struct_ticket}{Ticket}}\ \mbox{\hyperlink{class_queue_manager_aa36c60104a12165dcaecf50029772b1f}{getNextTicket}}();}
+\DoxyCodeLine{00025\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_queue_manager_ad4a592d2227e3ff1d617453f520da5d8}{callNext}}();}
+\DoxyCodeLine{00026\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_queue_manager_aa6385e8bc7087903b2200833b544461c}{finishCurrent}}(\textcolor{keywordtype}{int}\ \textcolor{keywordtype}{id});}
+\DoxyCodeLine{00027\ \ \ \ \ QList<Ticket>\ \mbox{\hyperlink{class_queue_manager_a3a8fb2d6d3f07b8866dc06bc58a7d7b0}{getCurrentQueue}}();}
+\DoxyCodeLine{00028\ }
+\DoxyCodeLine{00029\ signals:}
+\DoxyCodeLine{00030\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_queue_manager_a89018c7108b98ba69301f6321e19378e}{queueUpdated}}();}
+\DoxyCodeLine{00031\ \ \ \ \ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_queue_manager_afbf07299042e1356e18edb24d27c2c70}{ticketCalled}}(\textcolor{keyword}{const}\ \mbox{\hyperlink{struct_ticket}{Ticket}}\&\ ticket);}
+\DoxyCodeLine{00032\ \};}
+\DoxyCodeLine{00033\ }
+\DoxyCodeLine{00034\ \textcolor{preprocessor}{\#endif\ }\textcolor{comment}{//\ QUEUE\_MANAGER\_H}}
+
+\end{DoxyCode}

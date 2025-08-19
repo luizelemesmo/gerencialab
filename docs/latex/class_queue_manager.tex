@@ -1,0 +1,112 @@
+\doxysection{Queue\+Manager Class Reference}
+\hypertarget{class_queue_manager}{}\label{class_queue_manager}\index{QueueManager@{QueueManager}}
+
+
+{\ttfamily \#include $<$queue\+\_\+manager.\+h$>$}
+
+
+
+Inheritance diagram for Queue\+Manager\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=162pt]{class_queue_manager__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Queue\+Manager\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=162pt]{class_queue_manager__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Signals}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_queue_manager_a89018c7108b98ba69301f6321e19378e}{queue\+Updated}} ()
+\item 
+void \mbox{\hyperlink{class_queue_manager_afbf07299042e1356e18edb24d27c2c70}{ticket\+Called}} (const \mbox{\hyperlink{struct_ticket}{Ticket}} \&ticket)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_queue_manager_a16c3fca144278663cb890c57e3260990}{issue\+Ticket}} (const QString \&exam\+Type, bool is\+Preferential)
+\item 
+\mbox{\hyperlink{struct_ticket}{Ticket}} \mbox{\hyperlink{class_queue_manager_aa36c60104a12165dcaecf50029772b1f}{get\+Next\+Ticket}} ()
+\item 
+void \mbox{\hyperlink{class_queue_manager_ad4a592d2227e3ff1d617453f520da5d8}{call\+Next}} ()
+\item 
+void \mbox{\hyperlink{class_queue_manager_aa6385e8bc7087903b2200833b544461c}{finish\+Current}} (int id)
+\item 
+QList$<$ \mbox{\hyperlink{struct_ticket}{Ticket}} $>$ \mbox{\hyperlink{class_queue_manager_a3a8fb2d6d3f07b8866dc06bc58a7d7b0}{get\+Current\+Queue}} ()
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_queue_manager}{Queue\+Manager}} \texorpdfstring{$\ast$}{*} \mbox{\hyperlink{class_queue_manager_a6023e20f06460d148a5c9c217d3a0a1d}{get\+Instance}} ()
+\end{DoxyCompactItemize}
+
+
+\label{doc-func-members}
+\Hypertarget{class_queue_manager_doc-func-members}
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_queue_manager_ad4a592d2227e3ff1d617453f520da5d8}\index{QueueManager@{QueueManager}!callNext@{callNext}}
+\index{callNext@{callNext}!QueueManager@{QueueManager}}
+\doxysubsubsection{\texorpdfstring{callNext()}{callNext()}}
+{\footnotesize\ttfamily \label{class_queue_manager_ad4a592d2227e3ff1d617453f520da5d8} 
+void Queue\+Manager\+::call\+Next (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+\Hypertarget{class_queue_manager_aa6385e8bc7087903b2200833b544461c}\index{QueueManager@{QueueManager}!finishCurrent@{finishCurrent}}
+\index{finishCurrent@{finishCurrent}!QueueManager@{QueueManager}}
+\doxysubsubsection{\texorpdfstring{finishCurrent()}{finishCurrent()}}
+{\footnotesize\ttfamily \label{class_queue_manager_aa6385e8bc7087903b2200833b544461c} 
+void Queue\+Manager\+::finish\+Current (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})}
+
+\Hypertarget{class_queue_manager_a3a8fb2d6d3f07b8866dc06bc58a7d7b0}\index{QueueManager@{QueueManager}!getCurrentQueue@{getCurrentQueue}}
+\index{getCurrentQueue@{getCurrentQueue}!QueueManager@{QueueManager}}
+\doxysubsubsection{\texorpdfstring{getCurrentQueue()}{getCurrentQueue()}}
+{\footnotesize\ttfamily \label{class_queue_manager_a3a8fb2d6d3f07b8866dc06bc58a7d7b0} 
+QList$<$ \mbox{\hyperlink{struct_ticket}{Ticket}} $>$ Queue\+Manager\+::get\+Current\+Queue (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+\Hypertarget{class_queue_manager_a6023e20f06460d148a5c9c217d3a0a1d}\index{QueueManager@{QueueManager}!getInstance@{getInstance}}
+\index{getInstance@{getInstance}!QueueManager@{QueueManager}}
+\doxysubsubsection{\texorpdfstring{getInstance()}{getInstance()}}
+{\footnotesize\ttfamily \label{class_queue_manager_a6023e20f06460d148a5c9c217d3a0a1d} 
+\mbox{\hyperlink{class_queue_manager}{Queue\+Manager}} \texorpdfstring{$\ast$}{*} Queue\+Manager\+::get\+Instance (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+\Hypertarget{class_queue_manager_aa36c60104a12165dcaecf50029772b1f}\index{QueueManager@{QueueManager}!getNextTicket@{getNextTicket}}
+\index{getNextTicket@{getNextTicket}!QueueManager@{QueueManager}}
+\doxysubsubsection{\texorpdfstring{getNextTicket()}{getNextTicket()}}
+{\footnotesize\ttfamily \label{class_queue_manager_aa36c60104a12165dcaecf50029772b1f} 
+\mbox{\hyperlink{struct_ticket}{Ticket}} Queue\+Manager\+::get\+Next\+Ticket (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+\Hypertarget{class_queue_manager_a16c3fca144278663cb890c57e3260990}\index{QueueManager@{QueueManager}!issueTicket@{issueTicket}}
+\index{issueTicket@{issueTicket}!QueueManager@{QueueManager}}
+\doxysubsubsection{\texorpdfstring{issueTicket()}{issueTicket()}}
+{\footnotesize\ttfamily \label{class_queue_manager_a16c3fca144278663cb890c57e3260990} 
+void Queue\+Manager\+::issue\+Ticket (\begin{DoxyParamCaption}\item[{const QString \&}]{exam\+Type}{, }\item[{bool}]{is\+Preferential}{}\end{DoxyParamCaption})}
+
+\Hypertarget{class_queue_manager_a89018c7108b98ba69301f6321e19378e}\index{QueueManager@{QueueManager}!queueUpdated@{queueUpdated}}
+\index{queueUpdated@{queueUpdated}!QueueManager@{QueueManager}}
+\doxysubsubsection{\texorpdfstring{queueUpdated}{queueUpdated}}
+{\footnotesize\ttfamily \label{class_queue_manager_a89018c7108b98ba69301f6321e19378e} 
+void Queue\+Manager\+::queue\+Updated (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [signal]}}
+
+\Hypertarget{class_queue_manager_afbf07299042e1356e18edb24d27c2c70}\index{QueueManager@{QueueManager}!ticketCalled@{ticketCalled}}
+\index{ticketCalled@{ticketCalled}!QueueManager@{QueueManager}}
+\doxysubsubsection{\texorpdfstring{ticketCalled}{ticketCalled}}
+{\footnotesize\ttfamily \label{class_queue_manager_afbf07299042e1356e18edb24d27c2c70} 
+void Queue\+Manager\+::ticket\+Called (\begin{DoxyParamCaption}\item[{const \mbox{\hyperlink{struct_ticket}{Ticket}} \&}]{ticket}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [signal]}}
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+src/common/\mbox{\hyperlink{queue__manager_8h}{queue\+\_\+manager.\+h}}\item 
+src/common/common\+\_\+autogen/\+EWIEGA46\+WW/\mbox{\hyperlink{common_2common__autogen_2_e_w_i_e_g_a46_w_w_2moc__queue__manager_8cpp}{moc\+\_\+queue\+\_\+manager.\+cpp}}\item 
+src/common/\mbox{\hyperlink{queue__manager_8cpp}{queue\+\_\+manager.\+cpp}}\item 
+src/lab-\/fila/lab-\/fila\+\_\+autogen/\+AAGGKE4\+ILT/\mbox{\hyperlink{lab-fila_2lab-fila__autogen_2_a_a_g_g_k_e4_i_l_t_2moc__queue__manager_8cpp}{moc\+\_\+queue\+\_\+manager.\+cpp}}\end{DoxyCompactItemize}
