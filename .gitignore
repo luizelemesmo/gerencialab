@@ -16,6 +16,10 @@ Makefile
 *.cmake
 CMakeLists.txt.user
 
+# Ignorar arquivos Qt
+.qmake.stash
+Makefile.qt
+
 # Ignorar arquivos de build específicos
 *.autogen/
 *.moc
