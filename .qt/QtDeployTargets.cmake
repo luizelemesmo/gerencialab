@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_common_FILE /Users/luizhenrique/Desktop/gerencialab/src/common/libcommon.a)
+set(__QT_DEPLOY_TARGET_common_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_lab-fila_FILE /Users/luizhenrique/Desktop/gerencialab/src/lab-fila/liblab-fila.dylib)
+set(__QT_DEPLOY_TARGET_lab-fila_TYPE SHARED_LIBRARY)
+set(__QT_DEPLOY_TARGET_GerenciaLab_FILE /Users/luizhenrique/Desktop/gerencialab/GerenciaLab)
+set(__QT_DEPLOY_TARGET_GerenciaLab_TYPE EXECUTABLE)

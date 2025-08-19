@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon.a CMakeFiles/common.dir/common_autogen/mocs_compilation.cpp.o CMakeFiles/common.dir/ticket_factory.cpp.o CMakeFiles/common.dir/queue_model.cpp.o CMakeFiles/common.dir/queue_manager.cpp.o
+/usr/bin/ranlib libcommon.a
