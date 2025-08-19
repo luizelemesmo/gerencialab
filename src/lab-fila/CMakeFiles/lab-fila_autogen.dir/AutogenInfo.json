@@ -9,7 +9,21 @@
 	"CROSS_CONFIG" : false,
 	"DEP_FILE" : "/Users/luizhenrique/Desktop/gerencialab/src/lab-fila/lab-fila_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "lab-fila_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"/Users/luizhenrique/Desktop/gerencialab/src/lab-fila/receptionist_window.h",
+			"MU",
+			"EWIEGA46WW/moc_receptionist_window.cpp",
+			null
+		],
+		[
+			"/Users/luizhenrique/Desktop/gerencialab/src/lab-fila/totem_window.h",
+			"MU",
+			"EWIEGA46WW/moc_totem_window.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/Users/luizhenrique/Desktop/gerencialab/src/lab-fila/lab-fila_autogen/include",
 	"MOC_COMPILATION_FILE" : "/Users/luizhenrique/Desktop/gerencialab/src/lab-fila/lab-fila_autogen/mocs_compilation.cpp",

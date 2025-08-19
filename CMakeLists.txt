@@ -25,5 +25,4 @@ target_link_libraries(GerenciaLab PRIVATE
     Qt6::Sql 
     common 
     lab-fila 
-    lab-painel
 )

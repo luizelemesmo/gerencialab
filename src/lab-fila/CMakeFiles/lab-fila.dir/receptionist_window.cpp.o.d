@@ -1,5 +1,6 @@
 src/lab-fila/CMakeFiles/lab-fila.dir/receptionist_window.cpp.o: \
   /Users/luizhenrique/Desktop/gerencialab/src/lab-fila/receptionist_window.cpp \
+  /Users/luizhenrique/Desktop/gerencialab/src/lab-fila/receptionist_window.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/QWidget \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qwidget.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qtwidgetsglobal.h \
@@ -990,7 +991,6 @@ src/lab-fila/CMakeFiles/lab-fila.dir/receptionist_window.cpp.o: \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/QPushButton \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qpushbutton.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qabstractbutton.h \
-  /Users/luizhenrique/Desktop/gerencialab/src/common/queue_manager.cpp \
   /Users/luizhenrique/Desktop/gerencialab/src/common/queue_manager.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/QObject \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/QList \
@@ -1005,5 +1005,4 @@ src/lab-fila/CMakeFiles/lab-fila.dir/receptionist_window.cpp.o: \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Headers/qtsqlglobal.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Headers/qtsql-config.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Headers/qtsqlexports.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmetaobject.h \
-  /Users/luizhenrique/Desktop/gerencialab/src/common/ticket_factory.h
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmetaobject.h

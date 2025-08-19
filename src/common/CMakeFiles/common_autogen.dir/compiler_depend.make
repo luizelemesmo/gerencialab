@@ -730,312 +730,340 @@ src/common/common_autogen/timestamp: /Library/Developer/CommandLineTools/SDKs/Ma
   src/common/ticket.h \
   src/common/ticket_factory.cpp \
   src/common/ticket_factory.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QDateTime \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QList \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QObject \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QString \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q17memory.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q20utility.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q23utility.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qarraydataops.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qarraydatapointer.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qassert.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qatomic.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qatomic_cxx11.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbasicatomic.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbindingstorage.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbytearray.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbytearrayalgorithms.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbytearrayview.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcalendar.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qchar.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcompare.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcompare_impl.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcomparehelpers.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcompilerdetection.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qconfig.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qconstructormacros.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontainerfwd.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontainerinfo.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontiguouscache.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qdatetime.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qflags.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qforeach.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qfunctionaltools_impl.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qfunctionpointer.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qgenericatomic.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qglobal.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qhash.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qlist.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmap.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmath.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmetacontainer.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmetaobject.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmetatype.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qminmax.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qnamespace.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qnumeric.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qobject.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qobject_impl.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qobjectdefs.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qobjectdefs_impl.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qoverload.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qpair.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qrefcount.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qset.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qshareddata.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qshareddata_impl.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qsharedpointer.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qsharedpointer_impl.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstdlibdetection.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstring.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringalgorithms.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringbuilder.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringconverter.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringconverter_base.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringfwd.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringlist.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringliteral.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringmatcher.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringtokenizer.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringview.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qswap.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qsysinfo.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qsystemdetection.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtaggedpointer.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtclasshelpermacros.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtconfiginclude.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtcore-config.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtcoreexports.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtcoreglobal.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtdeprecationdefinitions.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtextstream.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtformat_impl.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtnoop.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtresource.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qttranslation.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qttypetraits.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtversion.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtypes.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qvariant.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qyieldcpu.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtSql.framework/Versions/A/Headers/QSqlDatabase \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtSql.framework/Versions/A/Headers/qsqldatabase.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtSql.framework/Versions/A/Headers/qtsql-config.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtSql.framework/Versions/A/Headers/qtsqlexports.h \
-  /opt/homebrew/Cellar/qt/6.9.1/lib/QtSql.framework/Versions/A/Headers/qtsqlglobal.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/QDateTime \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/QList \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/QObject \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/QString \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/q17memory.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/q20utility.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/q23utility.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qarraydataops.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qarraydatapointer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qassert.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qatomic.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qatomic_cxx11.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qbasicatomic.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qbindingstorage.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qbytearray.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qbytearrayalgorithms.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qbytearrayview.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcalendar.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qchar.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcompare.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcompare_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcomparehelpers.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcompilerdetection.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qconfig.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qconstructormacros.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcontainerfwd.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcontainerinfo.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcontiguouscache.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qdatetime.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qforeach.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qfunctionaltools_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qfunctionpointer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qgenericatomic.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qglobal.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qlist.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qmap.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qmath.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qmetacontainer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qmetaobject.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qmetatype.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qminmax.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qnamespace.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qnumeric.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qobject.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qobject_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qobjectdefs.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qobjectdefs_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qoverload.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qpair.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qrefcount.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qset.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qshareddata.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qshareddata_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qsharedpointer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qsharedpointer_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstdlibdetection.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstring.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringalgorithms.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringbuilder.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringconverter.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringconverter_base.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringfwd.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringlist.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringliteral.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringmatcher.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringtokenizer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringview.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qswap.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qsysinfo.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qsystemdetection.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtaggedpointer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtclasshelpermacros.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtconfiginclude.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtcore-config.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtcoreexports.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtcoreglobal.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtdeprecationdefinitions.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtextstream.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtformat_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtnoop.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtresource.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qttranslation.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qttypetraits.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtversion.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtypes.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qvariant.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qyieldcpu.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Versions/A/Headers/QSqlDatabase \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Versions/A/Headers/qsqldatabase.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Versions/A/Headers/qtsql-config.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlexports.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlglobal.h \
   /opt/homebrew/bin/cmake
 
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtSql.framework/Versions/A/Headers/qtsqlglobal.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlglobal.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtSql.framework/Versions/A/Headers/qtsqlexports.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Versions/A/Headers/qtsqlexports.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtSql.framework/Versions/A/Headers/qsqldatabase.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Versions/A/Headers/qtsql-config.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qyieldcpu.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Versions/A/Headers/qsqldatabase.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Versions/A/Headers/QSqlDatabase:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qvariant.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qyieldcpu.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qttranslation.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtresource.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qvariant.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtypes.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtextstream.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtversion.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qttranslation.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtdeprecationdefinitions.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtresource.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtcoreglobal.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtcoreexports.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtnoop.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtcore-config.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtdeprecationdefinitions.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtaggedpointer.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtcoreglobal.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qsystemdetection.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtcoreexports.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qsysinfo.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtcore-config.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qswap.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringview.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qsysinfo.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringmatcher.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringview.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringfwd.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringmatcher.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringconverter_base.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringlist.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringconverter.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringfwd.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringalgorithms.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringconverter_base.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstring.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringbuilder.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstdlibdetection.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstring.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qsharedpointer_impl.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstdlibdetection.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qshareddata_impl.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qsharedpointer_impl.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qrefcount.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qsharedpointer.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qobjectdefs_impl.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qshareddata_impl.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__numeric/adjacent_difference.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qshareddata.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qobject.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qset.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qnamespace.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qswap.h:
 
-src/common/queue_model.cpp:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmap.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/is_heap_until.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qobjectdefs_impl.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qlocale.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qobject_impl.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/atomic.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qobject.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qlist.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/contention_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/machine/_types.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qnamespace.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qhash.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringtokenizer.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/is_always_lock_free.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_floating_point.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qminmax.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qglobal.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qmetatype.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qiterable.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/min_element.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qgenericatomic.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qmalloc.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qfunctionpointer.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qnumeric.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_pod.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/partial_sort_copy.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qforeach.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__exception/terminate.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qdatastream.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/next.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontiguouscache.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/compressed_pair.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qshareddata.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qlogging.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qconstructormacros.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/three_way_comp_ref_type.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__fwd/ostream.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qlist.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__vector/comparison.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qconfig.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__fwd/functional.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcompilerdetection.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcompare.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qglobal.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_useconds_t.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_blkcnt_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/rotate_copy.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/erase_if_container.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qchar.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qoverload.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcalendar.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/AvailabilityInternal.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbytearrayview.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_equality_comparable.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/is_pointer_in_range.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbindingstorage.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qdatetime.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/system_error:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcontiguouscache.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qatomic.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/sort_heap.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qarraydata.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/fence.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q20memory.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcontainerinfo.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qnumeric.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcontainerfwd.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_trivially_constructible.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcompare_impl.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QString:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcalendar.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/convertible_to.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/simd_utils.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QObject:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qbytearrayview.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QList:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__fwd/array.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QDateTime:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qbytearrayalgorithms.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__functional/identity.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qbindingstorage.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcompare_impl.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qatomic_cxx11.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qatomic.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qassert.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qarraydatapointer.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qarraydataops.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qobjectdefs.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qlocale.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/private_constructor_tag.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qarraydata.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/q20utility.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qttypetraits.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/QObject:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/QList:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/QDateTime:
 
 src/common/ticket.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/pop_heap.h:
 
@@ -1045,6 +1073,8 @@ src/common/common_autogen/moc_predefs.h:
 
 src/common/CMakeLists.txt:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringconverter.h:
+
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdarg.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/inout_ptr.h:
@@ -1052,8 +1082,6 @@ src/common/CMakeLists.txt:
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stdarg_va_list.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stdarg_va_arg.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmath.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/map:
 
@@ -1064,6 +1092,8 @@ src/common/CMakeLists.txt:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/xlocale/_time.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/xlocale.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__math/traits.h:
 
@@ -1095,6 +1125,10 @@ src/common/CMakeLists.txt:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_ssize_t.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qbasicatomic.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtformat_impl.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_size_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_sigset_t.h:
@@ -1110,10 +1144,6 @@ src/common/CMakeLists.txt:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_id_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_fsblkcnt_t.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qflags.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/invocable.h:
 
@@ -1147,19 +1177,17 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/pthread/pthread.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/machine/endian.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__exception/exception_ptr.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/machine/_types.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcomparehelpers.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/machine/_endian.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/libkern/arm/_OSByteOrder.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qpair.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/wctype.h:
 
@@ -1192,6 +1220,8 @@ src/common/ticket_factory.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/stdexcept:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/stdbool.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringliteral.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/optional:
 
@@ -1229,15 +1259,11 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/cwctype:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtypes.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtconfiginclude.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/cwchar:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/ctype.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qarraydatapointer.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_blkcnt_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/ctime:
 
@@ -1249,8 +1275,6 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/chrono:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmetacontainer.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_ino_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/fill.h:
@@ -1261,17 +1285,11 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__vector/pmr.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_always_bitcastable.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qdebug.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__vector/container_traits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/scope_guard.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/rel_ops.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/private_constructor_tag.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_constructible.h:
 
@@ -1289,9 +1307,15 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/move.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/is_valid_range.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_primary_template.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/is_pointer_in_range.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/decay.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qfloat16.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/is_valid_range.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/stddef.h:
 
@@ -1329,8 +1353,6 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/remove_pointer.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/appleapiopts.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/remove_cv.h:
@@ -1367,6 +1389,10 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_trivially_relocatable.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/ostream_iterator.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qconstructormacros.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_pthread/_pthread_mutex_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_trivially_destructible.h:
@@ -1391,13 +1417,9 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_reference.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_pointer.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__fwd/array.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qiterator.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_pod.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/upper_bound.h:
 
@@ -1405,7 +1427,7 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_nothrow_constructible.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qttypetraits.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qsystemdetection.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_nothrow_assignable.h:
 
@@ -1421,6 +1443,8 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_function.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_compound.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_pthread/_pthread_mutexattr_t.h:
@@ -1431,13 +1455,15 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/move.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcomparehelpers.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/ratio:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/forward_list:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_enum.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_equality_comparable.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_enum.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/can_extract_key.h:
 
@@ -1445,25 +1471,17 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_constant_evaluated.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/string_view:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_const.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtnoop.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_class.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_callable.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q23utility.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_base_of.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_assignable.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmetatype.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/execution:
 
@@ -1474,6 +1492,12 @@ src/common/ticket_factory.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_arithmetic.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_pthread/_pthread_condattr_t.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qconfig.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_always_bitcastable.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/q17memory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_allocator.h:
 
@@ -1487,10 +1511,6 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/has_unique_object_representation.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_primary_template.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/decay.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/dependent_type.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/datasizeof.h:
@@ -1499,11 +1519,15 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/copy_cvref.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_gid_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/cstddef:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/copy_cv.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qmetacontainer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/remove_reference.h:
 
@@ -1515,13 +1539,11 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/add_rvalue_reference.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/for_each_segment.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q20utility.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/add_lvalue_reference.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/add_cv_quals.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qfunctionpointer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__functional/not_fn.h:
 
@@ -1542,8 +1564,6 @@ src/common/ticket_factory.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__thread/support/pthread.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__thread/poll_with_backoff.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtSql.framework/Versions/A/Headers/qtsql-config.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/atomic_init.h:
 
@@ -1567,6 +1587,8 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__system_error/error_code.h:
 
+src/common/queue_model.cpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__random/log2.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/unreachable_sentinel.h:
@@ -1578,8 +1600,6 @@ src/common/ticket_factory.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/integer_sequence.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__split_buffer:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/AvailabilityInternal.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/unique_temporary_buffer.h:
 
@@ -1613,8 +1633,6 @@ src/common/ticket_factory.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__ranges/access.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringbuilder.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__functional/binder2nd.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__numeric/reduce.h:
@@ -1627,11 +1645,11 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__random/is_valid.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__fwd/complex.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__numeric/pstl.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/copy_if.h:
 
@@ -1665,10 +1683,6 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/minmax_element.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/simd_utils.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__mutex/unique_lock.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__mutex/once_flag.h:
@@ -1680,8 +1694,6 @@ src/common/ticket_factory.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qpair.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/arithmetic.h:
 
@@ -1703,6 +1715,10 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/cmath:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__fwd/ostream.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__vector/comparison.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__cstddef/size_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_int32_t.h:
@@ -1712,8 +1728,6 @@ src/common/ticket_factory.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__functional/invoke.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/shared_ptr.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/string.h:
 
@@ -1741,15 +1755,11 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__functional/binary_function.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/partial_sort_copy.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__exception/terminate.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/next.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/compressed_pair.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qgenericatomic.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/auto_ptr.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__numeric/adjacent_difference.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__ranges/view_interface.h:
 
@@ -1761,11 +1771,7 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/allocator_arg_t.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qsharedpointer.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/atomic:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q20functional.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/allocation_guard.h:
 
@@ -1774,8 +1780,6 @@ src/common/ticket_factory.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__numeric/transform_reduce.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/access.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtSql.framework/Versions/A/Headers/QSqlDatabase:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/addressof.h:
 
@@ -1837,11 +1841,7 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__locale:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_fd_clr.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtconfiginclude.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__numeric/transform_exclusive_scan.h:
 
@@ -1851,15 +1851,11 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/readable_traits.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qfloat16.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__hash_table:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/prev.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qassert.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/ostream_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/piecewise_construct.h:
 
@@ -1873,7 +1869,11 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__math/special_functions.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__fwd/functional.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_useconds_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/rotate_copy.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/erase_if_container.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/size.h:
 
@@ -1881,11 +1881,17 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__math/roots.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_trivially_constructible.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/data.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/includes.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/default_sentinel.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/remove_extent.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/is_heap.h:
 
@@ -1893,9 +1899,9 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__cstddef/nullptr_t.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontainerinfo.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__ios/fpos.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtextstream.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/totally_ordered.h:
 
@@ -1923,8 +1929,6 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__fwd/sstream.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qlogging.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/common_type.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/replace_copy_if.h:
@@ -1945,9 +1949,9 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__fwd/bit_reference.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbytearray.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__fwd/string_view.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcompilerdetection.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/assignable.h:
 
@@ -2001,6 +2005,8 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__bit/invert_if.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__exception/exception_ptr.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__debug_utils/randomize_range.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/out_ptr.h:
@@ -2012,8 +2018,6 @@ src/common/ticket_factory.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/_time.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare_three_way.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__cstddef/max_align_t.h:
 
@@ -2031,11 +2035,13 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__tuple/tuple_types.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringlist.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__configuration/compiler.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtclasshelpermacros.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/iterator_traits.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qcompare.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/replace_copy.h:
 
@@ -2047,35 +2053,29 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/AvailabilityVersions.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qset.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/contention_t.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_int16_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/search.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/fence.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/same_as.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__string/constexpr_c_functions.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringtokenizer.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__functional/mem_fn.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__math/modulo.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qoverload.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/_locale_posix2008.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__functional/identity.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/swappable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_union.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/allocate_at_least.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/predicate.h:
 
@@ -2086,8 +2086,6 @@ src/common/ticket_factory.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__bit/countl.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/TargetConditionals.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstringliteral.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/boolean_testable.h:
 
@@ -2113,8 +2111,6 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__chrono/system_clock.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtversion.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_intptr_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__ranges/dangling.h:
@@ -2122,6 +2118,8 @@ src/common/ticket_factory.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/max_element.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__chrono/file_clock.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/system_error:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/cstdint:
 
@@ -2135,17 +2133,23 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/shared_count.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_floating_point.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/replace.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qmath.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__tuple/tuple_size.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__bit/bit_log2.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qdatastream.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__compare/three_way_comparable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__numeric/accumulate.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qforeach.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qanystringview.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_trivially_lexicographically_comparable.h:
 
@@ -2162,8 +2166,6 @@ src/common/ticket_factory.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/concepts.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/kill_dependency.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtclasshelpermacros.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/__endian.h:
 
@@ -2195,6 +2197,12 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/aliases.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/set:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__mbstate_t.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_destructible.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_object.h:
@@ -2207,6 +2215,8 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/unique.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qbytearray.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/swap_ranges.h:
@@ -2217,19 +2227,17 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__bit/rotate.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/support.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qmap.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qobject_impl.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/support.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/pthread/qos.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/remove_all_extents.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/minmax.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/movable.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qatomic_cxx11.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__memory/destruct_n.h:
 
@@ -2245,7 +2253,11 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_literal_type.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/atomic.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/partition_copy.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/convertible_to.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/unique_copy.h:
 
@@ -2269,23 +2281,17 @@ src/common/ticket_factory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/transform.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontainerfwd.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/partial_sort.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/search_n.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qminmax.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/three_way_comp_ref_type.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/unwrap_iter.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/sort_heap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/max.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_key_t.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qrefcount.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/reverse_copy.h:
 
@@ -2315,6 +2321,8 @@ src/common/queue_manager.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_pid_t.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/QString:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/auto_cast.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/rotate.h:
@@ -2327,19 +2335,15 @@ src/common/queue_manager.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_fd_setsize.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qchar.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/move_backward.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/copy_backward.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtformat_impl.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/nth_element.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__iterator/iter_move.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/set:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__mbstate_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/iterator_operations.h:
 
@@ -2367,7 +2371,7 @@ src/common/queue_manager.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__new/global_new_delete.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qdatetime.h:
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_dev_t.h:
 
@@ -2391,29 +2395,35 @@ src/common/queue_manager.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/different_from.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbasicatomic.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qarraydataops.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/cctype:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/is_partitioned.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/check_memory_order.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/is_heap_until.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/forward.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__system_error/errc.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qfunctionaltools_impl.h:
+
 src/common/queue_model.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__compare/ordering.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/q23utility.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_clock_t.h:
 
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qstringalgorithms.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/is_polymorphic.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__atomic/is_always_lock_free.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/types.h:
 
@@ -2431,17 +2441,15 @@ src/common/queue_model.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/any_of.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qfunctionaltools_impl.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/half_positive.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__functional/binary_negate.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/assert.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/unwrap_range.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__concepts/movable.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmalloc.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/unwrap_range.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/find_segment_if.h:
 
@@ -2459,6 +2467,10 @@ src/common/queue_model.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__exception/operations.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/for_each_segment.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qmetaobject.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_int8_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__fwd/memory.h:
@@ -2469,8 +2481,6 @@ src/common/queue_model.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/_types.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q17memory.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/find_if.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__utility/exception_guard.h:
@@ -2479,15 +2489,9 @@ src/common/queue_model.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/fill_n.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qanystringview.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/arm/_types.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmetaobject.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/comp_ref_type.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__undef_macros:
 
@@ -2495,19 +2499,17 @@ src/common/queue_model.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_ino64_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/remove_extent.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/make_projected.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/remove_const.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qtaggedpointer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__config_site:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stdarg_va_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/min_element.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/sys/_types/_u_int16_t.h:
 
@@ -2535,8 +2537,6 @@ src/common/queue_model.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__mutex/lock_guard.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbytearrayalgorithms.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__bit/bit_cast.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/type_list.h:
@@ -2557,8 +2557,6 @@ src/common/queue_model.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__string/extern_template_lists.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qobjectdefs.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__math/fma.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__type_traits/make_const_lvalue_ref.h:
@@ -2566,6 +2564,8 @@ src/common/queue_model.h:
 /opt/homebrew/bin/cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/_assert.h:
+
+/Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX26.0.sdk/usr/include/c++/v1/__algorithm/binary_search.h:
 

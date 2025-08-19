@@ -1,7 +1,8 @@
 src/lab-fila/CMakeFiles/lab-fila.dir/totem_window.cpp.o: \
   /Users/luizhenrique/Desktop/gerencialab/src/lab-fila/totem_window.cpp \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/QApplication \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qapplication.h \
+  /Users/luizhenrique/Desktop/gerencialab/src/lab-fila/totem_window.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/QWidget \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qwidget.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qtwidgetsglobal.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qtguiglobal.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qglobal.h \
@@ -706,9 +707,9 @@ src/lab-fila/CMakeFiles/lab-fila.dir/totem_window.cpp.o: \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qtguiexports.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qtwidgets-config.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qtwidgetsexports.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcoreapplication.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstring.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qchar.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qwindowdefs.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qobjectdefs.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qnamespace.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcompare.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstdlibdetection.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcomparehelpers.h \
@@ -843,11 +844,15 @@ src/lab-fila/CMakeFiles/lab-fila.dir/totem_window.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdarg \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtmetamacros.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qobjectdefs_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qfunctionaltools_impl.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qobject.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstring.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qchar.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringview.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qbytearray.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qrefcount.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qnamespace.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtmetamacros.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qarraydata.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qpair.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qarraydatapointer.h \
@@ -869,13 +874,6 @@ src/lab-fila/CMakeFiles/lab-fila.dir/totem_window.cpp.o: \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringbuilder.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringconverter.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qstringconverter_base.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcoreevent.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qbasictimer.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qabstracteventdispatcher.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qobject.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qobjectdefs.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qobjectdefs_impl.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qfunctionaltools_impl.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qlist.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qhashfunctions.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/numeric \
@@ -918,22 +916,17 @@ src/lab-fila/CMakeFiles/lab-fila.dir/totem_window.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/chrono \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/file_clock.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/forward_list \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qeventloop.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qdeadlinetimer.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qelapsedtimer.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qnativeinterface.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcoreapplication_platform.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qwindowdefs.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qpoint.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmargins.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/q23utility.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/q20utility.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qaction.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qkeysequence.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qicon.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qsize.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmargins.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qcursor.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qbitmap.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qpixmap.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qpaintdevice.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qrect.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qpoint.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qcolor.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qrgb.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qrgba64.h \
@@ -947,9 +940,6 @@ src/lab-fila/CMakeFiles/lab-fila.dir/totem_window.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cassert \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/q20iterator.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qline.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qguiapplication.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qinputmethod.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qlocale.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qvariant.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qdebug.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qtextstream.h \
@@ -963,12 +953,6 @@ src/lab-fila/CMakeFiles/lab-fila.dir/totem_window.cpp.o: \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qset.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qhash.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qvarlengtharray.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qguiapplication_platform.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/QWidget \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qwidget.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qaction.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qkeysequence.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qicon.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qpalette.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qbrush.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qfont.h \
@@ -977,6 +961,23 @@ src/lab-fila/CMakeFiles/lab-fila.dir/totem_window.cpp.o: \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qfontinfo.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qfontvariableaxis.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qsizepolicy.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qcursor.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qbitmap.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/QApplication \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qapplication.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcoreapplication.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcoreevent.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qbasictimer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qabstracteventdispatcher.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qeventloop.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qdeadlinetimer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qelapsedtimer.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qnativeinterface.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qcoreapplication_platform.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qguiapplication.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qinputmethod.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qlocale.h \
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtGui.framework/Headers/qguiapplication_platform.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/QVBoxLayout \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qboxlayout.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qlayout.h \
@@ -1006,7 +1007,6 @@ src/lab-fila/CMakeFiles/lab-fila.dir/totem_window.cpp.o: \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qmessagebox.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qdialog.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtWidgets.framework/Headers/qdialogbuttonbox.h \
-  /Users/luizhenrique/Desktop/gerencialab/src/common/queue_manager.cpp \
   /Users/luizhenrique/Desktop/gerencialab/src/common/queue_manager.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/QObject \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/QList \
@@ -1021,5 +1021,4 @@ src/lab-fila/CMakeFiles/lab-fila.dir/totem_window.cpp.o: \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Headers/qtsqlglobal.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Headers/qtsql-config.h \
   /Users/luizhenrique/Qt/6.9.1/macos/lib/QtSql.framework/Headers/qtsqlexports.h \
-  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmetaobject.h \
-  /Users/luizhenrique/Desktop/gerencialab/src/common/ticket_factory.h
+  /Users/luizhenrique/Qt/6.9.1/macos/lib/QtCore.framework/Headers/qmetaobject.h
