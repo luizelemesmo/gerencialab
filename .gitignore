@@ -1,8 +1,51 @@
 # Ignorar builds e binários
 build/
+bin/
 *.o
 *.exe
 *.out
+*.a
+*.so
+*.dylib
+
+# Ignorar arquivos CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+CMakeLists.txt.user
+
+# Ignorar arquivos de build específicos
+*.autogen/
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+
+# Ignorar arquivos de dependências
+*.d
+*.d.ts
+*.d.internal
+*.d.make
+*.includecache
+*.depend.make
+*.depend.internal
+
+# Ignorar arquivos de progresso
+progress.marks
+progress.make
+*.progress
+
+# Ignorar arquivos de configuração
+*.json
+*.yaml
+*.txt
+*.log
+
+# Ignorar executáveis
+GerenciaLab
 
 # Ignorar temporários
 *.swp
