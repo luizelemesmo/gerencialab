@@ -24,6 +24,12 @@ moc_*.h
 qrc_*.cpp
 ui_*.h
 
+# Ignorar arquivos Qt específicos
+**/autogen/
+**/mocs_compilation.cpp
+**/timestamp
+**/deps
+
 # Ignorar arquivos de dependências
 *.d
 *.d.ts
@@ -46,6 +52,10 @@ progress.make
 
 # Ignorar executáveis
 GerenciaLab
+
+# Ignorar bancos de dados
+*.db
+gerencialab.db
 
 # Ignorar temporários
 *.swp

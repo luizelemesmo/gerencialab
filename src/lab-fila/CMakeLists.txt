@@ -9,7 +9,6 @@ target_include_directories(lab-fila PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 
 # 3. Conecta (linka) esta biblioteca com as dependências dela (Qt e a biblioteca "common")
 target_link_libraries(lab-fila PRIVATE 
-    Qt6::Widgets 
+    Qt5::Widgets 
     common
-    OpenGL::GL
 )

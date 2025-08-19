@@ -2,13 +2,17 @@
 
 #include "queue_model.h"
 #include <QSqlQuery> // QSqlQuery é um detalhe de implementação, então o include fica aqui.
+#include <QVariant>
+#include <QSqlDatabase>
+#include <QSqlError>
+#include <QDebug>
 
 // O construtor agora é qualificado com o nome da classe
 QueueModel::QueueModel() {
     db = QSqlDatabase::addDatabase("QSQLITE");
     db.setDatabaseName("gerencialab.db");
     if (!db.open()) {
-        // Tratar erro
+        qDebug() << "Failed to open database:" << db.lastError().text();
     }
     QSqlQuery query;
     query.exec("CREATE TABLE IF NOT EXISTS tickets (id INT PRIMARY KEY, examType TEXT, isPreferential BOOL, issueTime DATETIME, status TEXT)");
@@ -18,11 +22,11 @@ QueueModel::QueueModel() {
 void QueueModel::addTicket(const Ticket& ticket) {
     QSqlQuery query;
     query.prepare("INSERT INTO tickets (id, examType, isPreferential, issueTime, status) VALUES (?, ?, ?, ?, ?)");
-    query.addBindValue(ticket.id);
-    query.addBindValue(ticket.examType);
-    query.addBindValue(ticket.isPreferential);
-    query.addBindValue(ticket.issueTime);
-    query.addBindValue(ticket.status);
+    query.addBindValue(QVariant(ticket.id));
+    query.addBindValue(QVariant(ticket.examType));
+    query.addBindValue(QVariant(ticket.isPreferential));
+    query.addBindValue(QVariant(ticket.issueTime));
+    query.addBindValue(QVariant(ticket.status));
     query.exec();
 }
 
@@ -44,13 +48,13 @@ QList<Ticket> QueueModel::getQueue() {
 void QueueModel::callTicket(int id) {
     QSqlQuery query;
     query.prepare("UPDATE tickets SET status = 'called' WHERE id = ?");
-    query.addBindValue(id);
+    query.addBindValue(QVariant(id));
     query.exec();
 }
 
 void QueueModel::finishTicket(int id) {
     QSqlQuery query;
     query.prepare("UPDATE tickets SET status = 'finished' WHERE id = ?");
-    query.addBindValue(id);
+    query.addBindValue(QVariant(id));
     query.exec();
 }

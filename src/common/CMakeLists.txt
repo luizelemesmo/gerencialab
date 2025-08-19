@@ -9,4 +9,4 @@ add_library(common STATIC
 target_include_directories(common PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 
 # Linka a biblioteca "common" com os módulos do Qt que ela utiliza
-target_link_libraries(common PUBLIC Qt6::Core Qt6::Sql)
+target_link_libraries(common PUBLIC Qt5::Core Qt5::Sql)
